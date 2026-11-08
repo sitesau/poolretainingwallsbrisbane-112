@@ -1,0 +1,22 @@
+{
+  "wheel_id": 830,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-112",
+  "project": "pool-retaining-walls-diy-vs-professional-a00efcc8f23a788ff3e866",
+  "parent_t1_ref": "poolretainingwallsbrisbane-155",
+  "node_role": "feeder",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "pool retaining walls diy vs professional",
+  "intended_url": "https://aumedia.neocities.org/pool-retaining-walls-diy-vs-professional-a00efcc8f23a788ff3e866/",
+  "tier": "T2",
+  "writeback_nonce": "d6a864b8bafde8f1",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/pool-retaining-walls-0cf7e3d0a385321c6a045aa63d91f705c18388c8/",
+      "anchor": "Pool Retaining Walls: for Sloping Sites",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
